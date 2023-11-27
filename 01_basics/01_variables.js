@@ -4,7 +4,6 @@ const name= "windows"
  accCity= "Lucknow"
 
  //const can not be changed
-
  id= "network@gmail.com"
  password="7896"
  accCity= "Mumbai"
